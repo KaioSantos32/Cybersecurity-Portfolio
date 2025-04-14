@@ -13,7 +13,7 @@ With this output it's possible to say that the "project_k.txt" and "project_m.tx
 	
 The file "project_k.txt" must be "read" and "write" only by the owner and the group.
 We encounter the same problem with the "project_m.txt" that has reading permissions for group but must be only accessed and edited by the owner.
-We can do that by "deleting" the permission using the minus after the subject we want to take the permission from ("u" for user, "g" for group and "o" for other users).
+We can do that by "deleting" the permission using the minus after the subject we want to take the permission from ("u" for user, "g" for group and "o" for other users):
 
 ![](images/02_changing_files_permissions.png)
 
