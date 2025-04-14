@@ -21,4 +21,4 @@ The user "researcher2" has a "drafts" file that only he should access.
 ![[changing_dir_permission.png]]
 
 ### Summary
-In this lab we changed the groups and users permissions of files and directories on the research team 's lab according to the policies and rules of the company, increasing the security by working along with the CIA triad;
+In this lab we changed the groups and users permissions of files and directories on the research team 's lab according to the policies and rules of the company, increasing the security by working along with the CIA triad.
