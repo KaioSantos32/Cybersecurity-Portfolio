@@ -4,7 +4,7 @@ ___
 **Analyse folders and files ownership and permissions**:
 	
 Before changing permissions we need to verify if everything is set properly by using the command `ls -la`, that shows all files (including hidden ones) and their permissions:
-![[images/show_files_dir_permissions.png]]
+![Showing files and directories permissions](images/show_files_dir_permissions.png)
 
 With this output it's possible to say that the "project_k.txt" and "project_m.txt" was created and given the wrong permissions according to the company's rules, so it's necessary to rectify it.
 
