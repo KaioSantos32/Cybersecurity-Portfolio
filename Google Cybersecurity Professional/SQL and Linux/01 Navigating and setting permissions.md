@@ -20,7 +20,7 @@ We can do that by "deleting" the permission using the minus after the subject we
 
 **Changing permissions of directory**:
 	
-The user "researcher2" has a "drafts" file that only he should access, but the group has reading permissions for it, so it's necessary to change it.
+The user "researcher2" has a "drafts" file that only he should access, but the group has reading permissions for it, so it's necessary to change it:
 
 ![Changing directory permission](images/03_changing_dir_permission.png)
 
