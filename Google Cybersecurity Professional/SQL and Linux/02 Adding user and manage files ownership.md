@@ -26,6 +26,6 @@ When adding primary and secondary groups(s) pay attention on the option:
 
 **Deleting user**:
 	
-With the command `userdel` we can delete the user easily, but attention with the output because when a user is created it's also create a group with the same name, so when deleting the user it's also necessary to delete it's group.
+With the command `userdel` we can delete the user easily, but attention with the output because when a user is created it's also create a group with the same name, so when deleting the user it's also necessary to delete it's group with the command `groupdel`.
 
 ![Deleting user and it's group](images/07_deleting_user_and_group.png)
