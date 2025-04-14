@@ -6,5 +6,5 @@ Giving this, your job is to add a new user for them, give access to the specifie
 	
 When creating a new user we use the command `useradd` followed by the username you want to register. After creating the user, add it to the `research_team` system group so he can have access to all of the groups files using the command `usermod`:
 
-![creating user and adding to a group](04_create_and_modify_user.png)
+![creating user and adding to a group](images/04_create_and_modify_user.png)
 
