@@ -4,6 +4,7 @@ ___
 **Analyse folders and files ownership and permissions**:
 	
 Before changing permissions we need to verify if everything is set properly by using the command `ls -la`, that shows all files (including hidden ones) and their permissions:
+
 ![Showing files and directories permissions](images/show_files_dir_permissions.png)
 
 With this output it's possible to say that the "project_k.txt" and "project_m.txt" was created and given the wrong permissions according to the company's rules, so it's necessary to rectify it.
@@ -18,6 +19,7 @@ We can do that by "deleting" the permission using the minus after the subject we
 **Changing permissions of directory**:
 	
 The user "researcher2" has a "drafts" file that only he should access.
+
 ![Changing directory permission](./images/changing_dir_permission.png)
 
 ### Summary
