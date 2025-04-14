@@ -1,6 +1,7 @@
 ___
-**About**: In this lab we have a new employee with the username of `researcher9` that will be taking care of a particular project at the organization.
-Giving this, your job is to add a new user for them, give access to the specified file and manage their access during their time at the organization.
+**About**: In this lab we'll be working with users commands: Create user, create groups, appending groups and after that, deleting them all as we don't need them.
+
+**Scenario**: In your organization, a new employee started working with the username `researcher9` that will work with a specific project and your job is to add a new user for them, give access to the specified file and manage their access during their time at the organization.
 After that, we'll also how to add a user to secondary groups when this employee changed his role a couple of months later at the organization and his deletion after that, when he left the company an year later.
 
 **Creating new user**:
