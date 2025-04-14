@@ -14,7 +14,7 @@ For that we will ask for every detail about the table `log_in_attempts` after wo
 **Retrieve specific dates incident**:
 Another day, the network analyst ask you the login attempts of the days 09-05-2022 and 08-05-2022 because a problem happened at day 9.
 
-![Specific date filter](images/09_specific_date_filter.png)(too much entries to show here)
+![Specific date filter](images/09_filter_specific_date.png)(too much entries to show here)
 
 **Search computer for security updates**:
 	
