@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ace6e77a1e8f8101",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d537e123a1f171c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7350bc7e879e6feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e9c7e702a8045803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity Professional/SQL and Linux/01 Navigating and setting permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Navigating and setting permissions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2405491362c39200",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5513a59e420e19c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f8cf9ebc338241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aaf67df46dc6fd7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "812c891920274ca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be944acc44a2df56",
+    "type": "split",
+    "children": [
+      {
+        "id": "9275f8f6c46453fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be315c16fdd4215c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google Cybersecurity Professional/SQL and Linux/01 Navigating and setting permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 Navigating and setting permissions"
+            }
+          },
+          {
+            "id": "92b7a3fcf6b886cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google Cybersecurity Professional/SQL and Linux/01 Navigating and setting permissions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 Navigating and setting permissions"
+            }
+          },
+          {
+            "id": "de371e3cd4e16367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "af49c5e453784fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google Cybersecurity Professional/SQL and Linux/01 Navigating and setting permissions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 Navigating and setting permissions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e9c7e702a8045803",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Google Cybersecurity Professional/SQL and Linux/01 Navigating and setting permissions.md",
+    "Google Cybersecurity Professional/SQL and Linux/images/02_changing_files_permissions.png",
+    "Google Cybersecurity Professional/SQL and Linux/images/03_changing_dir_permission.png",
+    "Google Cybersecurity Professional/SQL and Linux/images/01_show_files_dir_permissions.png",
+    "README.md",
+    "Untitled Document",
+    "Untitled Folder"
+  ]
+}
