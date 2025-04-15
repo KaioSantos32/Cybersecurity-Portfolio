@@ -22,18 +22,18 @@ ___
 	
 Now we'll identify the assets and it's sensitivity using the following table:
 
-| **Categories**    | **Access desgination**    |
-| ----------------- | ------------------------- |
-| **Restricted**    | Need-to-know              |
-| **Confidential**  | Limited to specific users |
-| **Internal-only** | Users on-premises         |
-| **Public**        | Anyone                    |
+| **Categories** | **Access desgination**    |
+| -------------- | ------------------------- |
+| Restricted     | Need-to-know              |
+| Confidential   | Limited to specific users |
+| Internal-only  | Users on-premises         |
+| Public         | Anyone                    |
 #### Assets identification
 
-| Asset               | Network Access | Owner        | Location        | Notes                                                                                                | Sensitivity   |
-| ------------------- | -------------- | ------------ | --------------- | ---------------------------------------------------------------------------------------------------- | ------------- |
-| Network Router      | Continuous     | ISP          | On-premise      | Has wired and Wi-Fi connection.<br>Wi-Fi provides 2.4 GHz and 5 GHz and both are accessed regularly; | Restricted    |
-| Desktop             | Continuous     | homeowner    | On-premise      | Contains private information, files and notes;                                                       | Internal-only |
-| Personal Smartphone | Occasional     | homeowner    | On/off -premise | Contains private information, files and notes;                                                       | Confidential  |
-| Tablet              | Occasional     | homeowner    | On/off -premise | Contains private information, files and notes;                                                       | Confidential  |
-| Guest smartphone    | Occasional     | Guest/Friend | On/off -premise | Connects to network occasionally for light use like watch video and web browsing                     | Internal-only |
+| **Access desgination** | **Access desgination** | **Access desgination** | **Access desgination** | **Access desgination**                                                                               | **Access designation** |
+| ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------- |
+| Network Router         | Continuous             | ISP                    | On-premise             | Has wired and Wi-Fi connection.<br>Wi-Fi provides 2.4 GHz and 5 GHz and both are accessed regularly; | Restricted             |
+| Desktop                | Continuous             | homeowner              | On-premise             | Contains private information, files and notes;                                                       | Internal-only          |
+| Personal Smartphone    | Occasional             | homeowner              | On/off -premise        | Contains private information, files and notes;                                                       | Confidential           |
+| Tablet                 | Occasional             | homeowner              | On/off -premise        | Contains private information, files and notes;                                                       | Confidential           |
+| Guest smartphone       | Occasional             | Guest/Friend           | On/off -premise        | Connects to network occasionally for light use like watch video and web browsing                     | Internal-only          |
