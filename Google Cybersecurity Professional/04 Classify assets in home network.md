@@ -14,5 +14,6 @@ ___
 > - Game consoles
 > - Storage devices or servers
 > - Video streaming devices
+>   
 > Then, you’ll list important characteristics of each device such as its owner, location, and type. Finally, you will assign each device a level of sensitivity based on how important it is to protect."
 
