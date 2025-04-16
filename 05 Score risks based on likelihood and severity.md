@@ -14,13 +14,13 @@ The bank is located in a coastal area with low crime rates. Many people and syst
 Now we need to consider the information learned from the previous step to consider the likelihood and severity of the risks.
 ### Assets table
 
-| **Asset** | **Risk(s)**               | **Description**                                                 | **Likelihood** | **Severity** | **Priority** |
-| --------- | ------------------------- | --------------------------------------------------------------- | -------------- | ------------ | ------------ |
-| Funds     | Business email compromise | _An employee is tricked into sharing confidential information._ | 2              | 3            | 6            |
-|           | Compromised user database | _Customer data is poorly encrypted._                            | 1              | 3            | 3            |
-|           | Financial records leak    | _A database server of backed up data is publicly accessible._   | 1              | 3            | 3            |
-|           | Theft                     | _The bank's safe is left unlocked._                             | 3              | 1            | 3            |
-|           | Supply chain disruption   | _Delivery delays due to natural disasters._                     | 1              | 1            | 1            |
+| **Asset** | **Risk(s)**                | **Description**                                                 | **Likelihood** | **Severity** | **Priority** |
+| --------- | -------------------------- | --------------------------------------------------------------- | -------------- | ------------ | ------------ |
+| Funds     | Compromised business email | _An employee is tricked into sharing confidential information._ | 2              | 3            | 6            |
+|           | Compromised user database  | _Customer data is poorly encrypted._                            | 1              | 3            | 3            |
+|           | Financial records leak     | _A database server of backed up data is publicly accessible._   | 1              | 3            | 3            |
+|           | Theft                      | _The bank's safe is left unlocked._                             | 3              | 1            | 3            |
+|           | Supply chain disruption    | _Delivery delays due to natural disasters._                     | 1              | 1            | 1            |
 
 # Step 3 - Putting altogether
 	
