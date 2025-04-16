@@ -26,4 +26,6 @@ Now we need to consider the information learned from the previous step to consid
 	
 Create an overview about the table inserting some examples of the risks that may happen:
 
-	"Considering the risks pointed above, several security events may have negative impacts on the bank's funds. A compromised email may lead to fraud or data leaks, the database corrupted along with the financial records leaks creates an doubtful and unreliable ambient for clients. And the theft or attack on the supply chains may lead into the interruption of the banks operations, leading into financial loss."
+	"Considering the risks pointed above, several security events may have negative impacts on the bank's funds. 
+	A compromised email may lead to fraud or data leaks, the database corrupted along with the financial records leaks creates an doubtful and unreliable ambient for clients. 
+	And the theft or attack on the supply chains may lead into the interruption of the banks operations, leading into financial loss."
