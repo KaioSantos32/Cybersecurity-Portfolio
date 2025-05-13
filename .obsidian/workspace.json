@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "f729a02361655845",
+    "id": "353b482049194150",
     "type": "split",
     "children": [
       {
-        "id": "f685dd22f3975803",
+        "id": "8c0da34d3788c691",
         "type": "tabs",
         "children": [
           {
-            "id": "6a83a49fc639da5f",
+            "id": "9c8b9169bd6aa379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
+                "file": "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Appropriate Data Handling Practices"
-            }
-          },
-          {
-            "id": "9e19a29c6dcb006f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Analyse a vulnerable system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 Analyse a vulnerable system"
+              "title": "08 - PASTA threat model framework"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "15021e86a46a8bdc",
+    "id": "a7b3fc3dc6423315",
     "type": "split",
     "children": [
       {
-        "id": "64075e2e9a43ec0d",
+        "id": "2edc06e825089d64",
         "type": "tabs",
         "children": [
           {
-            "id": "d033dd79608e4196",
+            "id": "062383feaf2fd30a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "3b81c1daec7086b2",
+            "id": "c79ff6e9da55fc97",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "8029e3506fbdd24d",
+            "id": "0d3799eccbfaaf20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 338,
     "collapsed": true
   },
   "right": {
-    "id": "f4e6666ae707bade",
+    "id": "f51146c4d1da92b6",
     "type": "split",
     "children": [
       {
-        "id": "c49789cce2a98424",
+        "id": "f6aeb51e91a3b973",
         "type": "tabs",
         "children": [
           {
-            "id": "ceba165b0761b3d0",
+            "id": "d4a99a90eed04a43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
+                "file": "05 Score risks based on likelihood and severity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06 Appropriate Data Handling Practices"
+              "title": "Backlinks for 05 Score risks based on likelihood and severity"
             }
           },
           {
-            "id": "2f6f7fbeeb75f243",
+            "id": "3ac838f7cced20b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
+                "file": "Google Cybersecurity Professional/SQL and Linux/03 SQL Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06 Appropriate Data Handling Practices"
+              "title": "Outgoing links from 03 SQL Lab"
             }
           },
           {
-            "id": "64512dc09c58ce2b",
+            "id": "64fb6d0e541837eb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +138,18 @@
             }
           },
           {
-            "id": "0344a876fbc33159",
+            "id": "4abd3562de993180",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
+                "file": "Google Cybersecurity Professional/SQL and Linux/03 SQL Lab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06 Appropriate Data Handling Practices"
+              "title": "Outline of 03 SQL Lab"
             }
           }
         ]
@@ -185,26 +170,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e19a29c6dcb006f",
+  "active": "9c8b9169bd6aa379",
   "lastOpenFiles": [
     "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
     "08 Analyse a vulnerable system.md",
+    "Google Cybersecurity Professional/07 Improving authentication, authorisation and accounting for small business.md",
+    "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
+    "Google Cybersecurity Professional/06 criando valores hash.md",
     "Google Cybersecurity Professional/images/6_4_comparing_hash.png",
+    "Google Cybersecurity Professional/01 Navigating and setting permissions.md",
+    "Google Cybersecurity Professional/images/1_1_show_files_dir_permissions.png",
     "Google Cybersecurity Professional/images/6_3_storing_hashes.png",
+    "Google Cybersecurity Professional/05 Score risks based on likelihood and severity.md",
+    "Google Cybersecurity Professional/04 Classify assets in home network.md",
+    "Google Cybersecurity Professional/03 SQL Lab.md",
+    "Google Cybersecurity Professional/02 Adding user and manage files ownership.md",
     "Google Cybersecurity Professional/images/6_2_hashed_files.png",
     "Google Cybersecurity Professional/images/6_1_showing_hashed_files.png",
+    "Pasted image 20250422111325.png",
+    "06 Determine appropriate data handling practices.md",
+    "Google Cybersecurity Professional/docs/Data leak worksheet.md",
+    "Google Cybersecurity Professional/docs",
+    "Google Cybersecurity Professional/README.md",
+    "conflict-files-obsidian-git.md",
+    "Google Cybersecurity Professional/images/09_specific_date_filter.xcf",
     "Google Cybersecurity Professional/images/3_4_filter_with_in_operator.png",
     "Google Cybersecurity Professional/images/3_3_search_specific_department.png",
     "Google Cybersecurity Professional/images/3_2_filter_specific_date.png",
     "Google Cybersecurity Professional/images/3_1_search_failed_log_in_attempts.png",
-    "Google Cybersecurity Professional/images/2_4_deleting_user_and_group.png",
-    "Google Cybersecurity Professional/images/2_3_add_secondary_group.png",
-    "Google Cybersecurity Professional/07 Improving authentication, authorisation and accounting for small business.md",
-    "Google Cybersecurity Professional/06 criando valores hash.md",
-    "06 Determine appropriate data handling practices.md",
-    "07 LAB - encriptar e decriptar mensagem.md",
-    "Google Cybersecurity Professional/docs/Data leak worksheet.md",
-    "Google Cybersecurity Professional/docs",
-    "Google Cybersecurity Professional/05 Score risks based on likelihood and severity.md"
+    "images.md",
+    "Untitled Document"
   ]
 }
