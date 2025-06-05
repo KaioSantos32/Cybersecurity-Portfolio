@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
+                "file": "Google Cybersecurity Professional/09 Investigate suspicious file hash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - PASTA threat model framework"
-            }
-          },
-          {
-            "id": "3cea3f1260d88401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "09 Investigate suspicious file hash"
             }
           }
         ]
@@ -186,12 +172,13 @@
   },
   "active": "9c8b9169bd6aa379",
   "lastOpenFiles": [
+    "Google Cybersecurity Professional/images/9_1_virus_total_analysis.png",
+    "Google Cybersecurity Professional/07 Improving authentication, authorisation and accounting for small business.md",
+    "Google Cybersecurity Professional/08 PASTA threat model framework.md",
+    "Google Cybersecurity Professional/09 Investigate suspicious file hash.md",
     "README.md",
-    "Google Cybersecurity Professional/09 - Investigate suspicious file hash.md",
-    "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
     "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
     "08 Analyse a vulnerable system.md",
-    "Google Cybersecurity Professional/07 Improving authentication, authorisation and accounting for small business.md",
     "Google Cybersecurity Professional/06 criando valores hash.md",
     "Google Cybersecurity Professional/images/6_4_comparing_hash.png",
     "Google Cybersecurity Professional/01 Navigating and setting permissions.md",
