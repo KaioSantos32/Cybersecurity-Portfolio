@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Investigate suspicious file hash.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - Investigate suspicious file hash"
+              "title": "README"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "3cea3f1260d88401",
   "lastOpenFiles": [
+    "Google Cybersecurity Professional/09 - Investigate suspicious file hash.md",
     "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
-    "09 - Investigate suspicious file hash.md",
     "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
     "08 Analyse a vulnerable system.md",
     "Google Cybersecurity Professional/07 Improving authentication, authorisation and accounting for small business.md",
@@ -207,7 +207,7 @@
     "06 Determine appropriate data handling practices.md",
     "Google Cybersecurity Professional/docs/Data leak worksheet.md",
     "Google Cybersecurity Professional/docs",
-    "Google Cybersecurity Professional/README.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Google Cybersecurity Professional/images/09_specific_date_filter.xcf",
     "Google Cybersecurity Professional/images/3_4_filter_with_in_operator.png",
