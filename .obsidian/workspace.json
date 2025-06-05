@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cea3f1260d88401",
+  "active": "9c8b9169bd6aa379",
   "lastOpenFiles": [
+    "README.md",
     "Google Cybersecurity Professional/09 - Investigate suspicious file hash.md",
     "Google Cybersecurity Professional/08 - PASTA threat model framework.md",
     "Google Cybersecurity Professional/06 Appropriate Data Handling Practices.md",
@@ -207,7 +207,6 @@
     "06 Determine appropriate data handling practices.md",
     "Google Cybersecurity Professional/docs/Data leak worksheet.md",
     "Google Cybersecurity Professional/docs",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Google Cybersecurity Professional/images/09_specific_date_filter.xcf",
     "Google Cybersecurity Professional/images/3_4_filter_with_in_operator.png",
