@@ -38,7 +38,8 @@ Clyde West
 ___
 **Attachment**: filename="bfsvc.==exe=="
 
-# 1.
+# 1. Phishing analysis
+
 |                 | Security Incident #01                                                                                                                                                                                                                                                                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Description** | The error occurred by the lack of email filtering and training for the people using the emails.<br>The email contains an ".exe" saying it's a "cover letter" and it's protected by a password to be accessed.                                                                                                                                                                  |

@@ -12,12 +12,12 @@ hash of the file: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f
 
 | **Time** | **Action**                                                                                     |
 | -------- | ---------------------------------------------------------------------------------------------- |
-| 1:11 p.m | An employee reveives an email containing a file attachment.                                    |
-| 1:13 p.m | The employee successfully downloads and opens the file.                                        |
-| 1:15 p.m | Multiple unauthorized executable files are created on the computer.                            |
-| 1:20 p.m | The intrusion detection system detects the executable files and sends out an alert to the SOC. |
+| 1:11p.m  | An employee reveives an email containing a file attachment.                                    |
+| 1:13p.m  | The employee successfully downloads and opens the file.                                        |
+| 1:15p.m  | Multiple unauthorized executable files are created on the computer.                            |
+| 1:20p.m  | The intrusion detection system detects the executable files and sends out an alert to the SOC. |
 
-# 2. VirutTotal analysis
+# 2. VirusTotal analysis
 	
 We'll use the hash for the analysis, the feedback is the following (one part):
 ![[9_1_virus_total_analysis.png]]
