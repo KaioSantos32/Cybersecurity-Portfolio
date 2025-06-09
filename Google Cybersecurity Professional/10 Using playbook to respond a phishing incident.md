@@ -4,11 +4,11 @@ ___
 	Your organization's security policies and procedures describe how to respond to specific alerts, including what to do when you receive a phishing alert.
 
 # Alert ticket
-| **Ticket ID** | **Alert Message**                                         | **Severity** | **Details**                                                                                                                   | **Ticket status** |
-| ------------- | --------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| A-703         | SERVER-MAIL Phishing attempt possible download of malware | ==High==     | The user may have opened a malicious email and opened attachments or clicked links.                                           | ==Escalated==     |
-|               |                                                           |              | The email contains a lot of grammatical errors, strong indicator of phishing.                                                 |                   |
-|               |                                                           |              | Another important point to take in consider is that the "cover letter" is an ".exe" file, executable, not a pdf as it should. |                   |
+| **Ticket ID** | **Alert Message**                                         | **Severity** | **Details**                                                                                                                                                                    | **Ticket status** |
+| ------------- | --------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| A-703         | SERVER-MAIL Phishing attempt possible download of malware | ==High==     | The user may have opened a malicious email and opened attachments or clicked links.                                                                                            | ==Escalated==     |
+|               |                                                           |              | The email contains a lot of grammatical errors, strong indicator of phishing. Also, the name at the end "Clyde West" and the email sender's name "Def Communications" differs. |                   |
+|               |                                                           |              | Another important point to take in consider is that the "cover letter" is an ".exe" file, executable, not a pdf as it should.                                                  |                   |
 
 | Ticker comments |
 | --------------- |
