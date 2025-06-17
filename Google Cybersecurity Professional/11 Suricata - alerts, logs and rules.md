@@ -77,3 +77,4 @@ To properly understand this file we can't use the `cat` command since it will sh
 Instead of `cat` we use `jq .` and in the end `| less` to show us in a readable form, like this:
 ![[11_3_eve_json.png]]
 
+**Note**: Suricata export the files on folder located at `/var/log/suricata/` (the default location at least).
